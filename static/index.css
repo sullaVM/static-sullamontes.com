@@ -46,7 +46,7 @@ a, a:visited, a:active {
 }
 
 #body_wrap {
-	margin-top: 3%;
+	margin-top: 0%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 90%;
@@ -61,7 +61,7 @@ a, a:visited, a:active {
 	display: table;
 	table-layout: fixed;
 	width: 100%;
-	margin-top: 50px;
+	margin-top: 20%;
 }
 
 .header {
@@ -86,22 +86,6 @@ h1 {
 
 #nightmode a {
 	cursor: pointer;
-}
-
-#core {
-	width: 450px;
-	position: relative;
-	margin: auto;
-	bottom: 0;
-	right: 0;
-	left: 0;
-	top: 0;
-	margin-top: 20;
-}
-
-core img {
-	max-width: 100%;
-	min-width: 100%;
 }
 
 .caption {
@@ -143,7 +127,6 @@ img.portrait {
 
 .footer {
 	position: absolute;
-	bottom: 10%;
 	padding-left: 10%;
 	width: 90%;	
 }
