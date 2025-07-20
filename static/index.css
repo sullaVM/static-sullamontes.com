@@ -140,9 +140,10 @@ img.portrait {
 
 @media only screen and (max-width: 1024px) {
 	#body_wrap {
-		margin-top: 3%;
+		margin-top: 20%;
 		margin-left: auto;
 		margin-right: auto;
+		width: 80%;
 	}
 }
 
